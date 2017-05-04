@@ -720,7 +720,7 @@ var vboxChooser = {
 				var vStr = $('#vboxPane').data('vboxConfig').phpvboxver.substring(0,$('#vboxPane').data('vboxConfig').phpvboxver.indexOf('-'));
 				var vers = $('#vboxPane').data('vboxConfig').version.string.replace('_OSE','').split('.');
 				if(vers[0]+'.'+vers[1] != vStr) {
-					vboxAlert('This version of VirtualBox ('+$('#vboxPane').data('vboxConfig').version.string+') is incompatible with your virtual server ' + $('#vboxPane').data('vboxConfig').phpvboxver + ".<p>Contact your SICOSSYS administrator.</p>",{'width':'auto'});
+					//vboxAlert('This version of VirtualBox ('+$('#vboxPane').data('vboxConfig').version.string+') is incompatible with your virtual server ' + $('#vboxPane').data('vboxConfig').phpvboxver + ".<p>Contact your SICOSSYS administrator.</p>",{'width':'auto'});
 				}
 			}			
 		} else {

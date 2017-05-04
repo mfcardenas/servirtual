@@ -24,15 +24,15 @@
       <file leaf-file-name="chooser.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/chooser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="722" column="268" selection-start-line="722" selection-start-column="20" selection-end-line="722" selection-end-column="270" />
+            <state relative-caret-position="204">
+              <caret line="722" column="22" selection-start-line="722" selection-start-column="22" selection-end-line="722" selection-end-column="22" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1493858001680" expanded="true" signature="1913:1931" ph="..." />
-                <marker date="1493858001680" expanded="true" signature="19390:19449" ph="..." />
-                <marker date="1493858001680" expanded="true" signature="41411:41469" ph="..." />
-                <marker date="1493858001680" expanded="true" signature="41536:41596" ph="..." />
-                <marker date="1493858001680" expanded="true" signature="67256:67274" ph="..." />
+                <marker date="1493858948231" expanded="true" signature="1913:1931" ph="..." />
+                <marker date="1493858948231" expanded="true" signature="19390:19449" ph="..." />
+                <marker date="1493858948231" expanded="true" signature="41413:41471" ph="..." />
+                <marker date="1493858948231" expanded="true" signature="41538:41598" ph="..." />
+                <marker date="1493858948231" expanded="true" signature="67258:67276" ph="..." />
               </folding>
             </state>
           </provider>
@@ -58,6 +58,7 @@
         <option value="$PROJECT_DIR$/LICENSE.txt" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/panes/topmenu.html" />
+        <option value="$PROJECT_DIR$/js/chooser.js" />
       </list>
     </option>
   </component>
@@ -74,10 +75,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP7" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="189" />
+    <option name="x" value="61" />
+    <option name="y" value="24" />
     <option name="width" value="1859" />
-    <option name="height" value="804" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -121,34 +122,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="servirtual" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servirtual" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servirtual" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="panes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servirtual" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servirtual" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -884,15 +857,15 @@
       <option name="presentableId" value="Default" />
       <updated>1493823764923</updated>
       <workItem from="1493823766399" duration="665000" />
-      <workItem from="1493833411096" duration="4990000" />
+      <workItem from="1493833411096" duration="5896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5655000" />
+    <option name="totallyTimeSpent" value="6561000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="189" width="1859" height="804" extended-state="0" />
+    <frame x="61" y="24" width="1859" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -903,7 +876,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24004306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1138,15 +1111,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/chooser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="722" column="268" selection-start-line="722" selection-start-column="20" selection-end-line="722" selection-end-column="270" />
+        <state relative-caret-position="204">
+          <caret line="722" column="22" selection-start-line="722" selection-start-column="22" selection-end-line="722" selection-end-column="22" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1493858001680" expanded="true" signature="1913:1931" ph="..." />
-            <marker date="1493858001680" expanded="true" signature="19390:19449" ph="..." />
-            <marker date="1493858001680" expanded="true" signature="41411:41469" ph="..." />
-            <marker date="1493858001680" expanded="true" signature="41536:41596" ph="..." />
-            <marker date="1493858001680" expanded="true" signature="67256:67274" ph="..." />
+            <marker date="1493858948231" expanded="true" signature="1913:1931" ph="..." />
+            <marker date="1493858948231" expanded="true" signature="19390:19449" ph="..." />
+            <marker date="1493858948231" expanded="true" signature="41413:41471" ph="..." />
+            <marker date="1493858948231" expanded="true" signature="41538:41598" ph="..." />
+            <marker date="1493858948231" expanded="true" signature="67258:67276" ph="..." />
           </folding>
         </state>
       </provider>
